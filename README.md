@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## YohaLin
-Welcome to Yoha's Github.  I live in New Taipei city, working in the local clinic as a pharmacist. Addicted to web dev, I am engaged in learning new technology to be a front-end engineer in the future.
+Welcome to Yoha's Github.  <br>
+I live in New Taipei city, working in the local clinic as a pharmacist. <br>
+I'm engaged in learning new technology to be a front-end engineer in the future.<br>
 
 ## My Goals of 2022
 skilled in programming language in front-end,like HTML,CSS,JS...an so on <br>
