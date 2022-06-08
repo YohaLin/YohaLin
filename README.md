@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## 😀 YohaLin
-🌟Welcome to Yoha's Github.  <br>
-🌟I live in New Taipei city, working in the local clinic as a pharmacist. <br>
+🌟Welcome to YohaLin's Github! <br>
+🌟I live in New Taipei city, currently working in the local clinic as a pharmacist. <br>
 🌟I'm engaged in learning new technology to be a front-end engineer in the future.<br>
 🌟It's glad to start a conversation with you.<br>
 
