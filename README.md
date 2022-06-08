@@ -15,17 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## YohaLin
-Welcome to Yoha's Github.  <br>
-I live in New Taipei city, working in the local clinic as a pharmacist. <br>
-I'm engaged in learning new technology to be a front-end engineer in the future.<br>
+## 😀 YohaLin
+🌟Welcome to Yoha's Github.  <br>
+🌟I live in New Taipei city, working in the local clinic as a pharmacist. <br>
+🌟I'm engaged in learning new technology to be a front-end engineer in the future.<br>
+🌟It's glad to start a conversation with you.<br>
 
-## My Goals of 2022
-skilled in programming language in front-end,like HTML,CSS,JS...an so on <br>
-learning English by reading magzines every day
+## 🎉 My Goals of 2022
+🌟skilled in programming language in front-end,like HTML,CSS,JS...an so on.<br>
+🌟learning English by reading magzines every day.
 
 ## 🧠 Languages that I know and use
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
+🌟HTML5<br>
+🌟CSS3<br>
+🌟JavaScript<br>
+🌟Bootstrap<br>
