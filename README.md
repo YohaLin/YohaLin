@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 🌟I'm engaged in learning new technology to be a front-end engineer in the future.<br>
 🌟It's glad to start a conversation with you.<br>
 
-## 🎉 My Goals of 2022
-🌟skilled in programming language in front-end,like HTML,CSS,JS...an so on.<br>
+## 🎉 My Goals of 2023
+🌟skilled in new technique in front-end,like React.js, Next.js, TypeScript...an so on.<br>
 🌟learning English by reading magzines every day.
 
 ## 🧠 Languages that I know and use
@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 🌟CSS3<br>
 🌟JavaScript<br>
 🌟Bootstrap<br>
+🌟Vue.js<br>
+🌟React.js<br>
+🌟Next.js<br>
+🌟TypeScript<br>
